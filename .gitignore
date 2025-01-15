@@ -1,0 +1,18 @@
+# Ignore .env file containing sensitive information
+.env
+aviso
+runtime_vc
+example_company_urls.txt
+docx-template
+lib
+include
+bin
+*.pyc
+__pycache__/
+long_summaries.docx
+short_summaries.csv
+scraped_data_*.json
+past_usage
+company_urls.txt
+share
+pyvenv.cfg
